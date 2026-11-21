@@ -1,0 +1,16 @@
+lab_id,patient_id,test_name,result
+L001,P101,Blood Sugar,110
+L002,P102,Cholesterol,200
+L003,P103,Blood Pressure,130/80
+L004,P104,Vitamin D,35
+L005,P105,Thyroid,5.2
+L006,P106,Blood Sugar,95
+L007,P107,Cholesterol,180
+L008,P108,HbA1c,6.1
+L009,P109,Blood Sugar,140
+L010,P110,Vitamin B12,450
+L011,P111,Thyroid,4.8
+L012,P112,Iron,60
+L013,P113,Blood Sugar,100
+L014,P114,Cholesterol,210
+L015,P115,HbA1c,6.5
